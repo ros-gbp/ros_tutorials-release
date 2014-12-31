@@ -1,3 +1,28 @@
+## ros_tutorials (jade) - 0.5.2-0
+
+The packages in the `ros_tutorials` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade ros_tutorials` on `Wed, 31 Dec 2014 18:15:44 -0000`
+
+These packages were released:
+- `ros_tutorials`
+- `roscpp_tutorials`
+- `rospy_tutorials`
+- `turtlesim`
+
+Version of package(s) in repository `ros_tutorials`:
+- upstream repository: git@github.com:ros/ros_tutorials.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.5.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## ros_tutorials (indigo) - 0.5.2-0
 
 The packages in the `ros_tutorials` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo ros_tutorials` on `Tue, 23 Dec 2014 23:22:21 -0000`
