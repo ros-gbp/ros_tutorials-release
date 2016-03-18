@@ -2,13 +2,18 @@
 Changelog for package turtlesim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.5.5 (2016-03-18)
+0.6.2 (2016-03-18)
 ------------------
+* fix size of Jade image to not exceed other images in order to not get positioned incorrectly
 * fix compiler warnings
 
-0.5.4 (2015-09-19)
+0.6.1 (2015-09-19)
 ------------------
 * update the coordinate system in /spawn service for consistency (`#25 <https://github.com/ros/ros_tutorials/pull/25>`_)
+
+0.6.0 (2015-05-21)
+------------------
+* add jade turtle (`#22 <https://github.com/ros/ros_tutorials/pull/22>`_)
 
 0.5.3 (2015-05-04)
 ------------------
