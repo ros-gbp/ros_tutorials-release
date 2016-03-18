@@ -75,6 +75,7 @@ TurtleFrame::TurtleFrame(QWidget* parent, Qt::WindowFlags f)
   turtles.append("hydro.svg");
   turtles.append("indigo.svg");
   turtles.append("jade.png");
+  turtles.append("kinetic.png");
 
   QString images_path = (ros::package::getPath("turtlesim") + "/images/").c_str();
   for (int i = 0; i < turtles.size(); ++i)
@@ -100,7 +101,7 @@ TurtleFrame::TurtleFrame(QWidget* parent, Qt::WindowFlags f)
   spawnTurtle("", width_in_meters_ / 2.0, height_in_meters_ / 2.0, 0);
 
   // spawn all available turtle types
-  if(FALSE)
+  if(false)
   {
     for(int index = 0; index < turtles.size(); ++index)
     {
