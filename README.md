@@ -1,3 +1,30 @@
+## ros_tutorials (lunar) - 0.7.1-0
+
+The packages in the `ros_tutorials` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar ros_tutorials` on `Thu, 23 Feb 2017 02:03:40 -0000`
+
+These packages were released:
+- `ros_tutorials`
+- `roscpp_tutorials`
+- `rospy_tutorials`
+- `turtlesim`
+
+Version of package(s) in repository `ros_tutorials`:
+
+- upstream repository: git@github.com:ros/ros_tutorials.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.7.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## ros_tutorials (kinetic) - 0.7.1-0
 
 The packages in the `ros_tutorials` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic ros_tutorials` on `Mon, 24 Oct 2016 18:09:18 -0000`
