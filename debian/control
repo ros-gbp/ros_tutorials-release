@@ -1,0 +1,12 @@
+Source: ros-melodic-turtlesim
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), qt5-qmake, qtbase5-dev, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-rosconsole, ros-melodic-roscpp, ros-melodic-roscpp-serialization, ros-melodic-roslib, ros-melodic-rostime, ros-melodic-std-msgs, ros-melodic-std-srvs
+Homepage: http://www.ros.org/wiki/turtlesim
+Standards-Version: 3.9.2
+
+Package: ros-melodic-turtlesim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqt5core5a, libqt5gui5, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-rosconsole, ros-melodic-roscpp, ros-melodic-roscpp-serialization, ros-melodic-roslib, ros-melodic-rostime, ros-melodic-std-msgs, ros-melodic-std-srvs
+Description: turtlesim is a tool made for teaching ROS and ROS packages.
