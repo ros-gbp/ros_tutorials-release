@@ -2,6 +2,11 @@
 Changelog for package turtlesim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.1 (2019-03-04)
+------------------
+* change formula to avoid rounding with extreme input values (`#51 <https://github.com/ros/ros_tutorials/issues/51>`_)
+* keep theta in the desired interval (`#46 <https://github.com/ros/ros_tutorials/issues/46>`_)
+
 0.9.0 (2018-04-11)
 ------------------
 * add melodic turtle (`#41 <https://github.com/ros/ros_tutorials/issues/41>`_)
