@@ -1,3 +1,30 @@
+## ros_tutorials (noetic) - 0.9.2-1
+
+The packages in the `ros_tutorials` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic ros_tutorials` on `Wed, 26 Feb 2020 18:34:19 -0000`
+
+These packages were released:
+- `ros_tutorials`
+- `roscpp_tutorials`
+- `rospy_tutorials`
+- `turtlesim`
+
+Version of package(s) in repository `ros_tutorials`:
+
+- upstream repository: git@github.com:ros/ros_tutorials.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.9.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## ros_tutorials (melodic) - 0.9.2-1
 
 The packages in the `ros_tutorials` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic ros_tutorials` on `Wed, 26 Feb 2020 18:28:57 -0000`
