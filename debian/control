@@ -1,0 +1,12 @@
+Source: ros-noetic-roscpp-tutorials
+Section: misc
+Priority: optional
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), libboost-date-time-dev, libboost-thread-dev, ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-roscpp-serialization, ros-noetic-rostime, ros-noetic-std-msgs
+Homepage: http://www.ros.org/wiki/roscpp_tutorials
+Standards-Version: 3.9.2
+
+Package: ros-noetic-roscpp-tutorials
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-date-time-dev, libboost-thread-dev, ros-noetic-message-runtime, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-roscpp-serialization, ros-noetic-rostime, ros-noetic-std-msgs
+Description: This package attempts to show the features of ROS step-by-step, including using messages, servers, parameters, etc.
