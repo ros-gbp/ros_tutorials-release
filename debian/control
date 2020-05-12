@@ -1,0 +1,12 @@
+Source: ros-noetic-turtlesim
+Section: misc
+Priority: optional
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), libboost-thread-dev, qt5-qmake, qtbase5-dev, ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-roscpp-serialization, ros-noetic-roslib, ros-noetic-rostime, ros-noetic-std-msgs, ros-noetic-std-srvs
+Homepage: http://www.ros.org/wiki/turtlesim
+Standards-Version: 3.9.2
+
+Package: ros-noetic-turtlesim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-thread-dev, libqt5core5a, libqt5gui5, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-roscpp-serialization, ros-noetic-roslib, ros-noetic-rostime, ros-noetic-std-msgs, ros-noetic-std-srvs
+Description: turtlesim is a tool made for teaching ROS and ROS packages.
