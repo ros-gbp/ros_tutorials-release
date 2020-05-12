@@ -1,0 +1,12 @@
+Source: ros-noetic-ros-tutorials
+Section: misc
+Priority: optional
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://www.ros.org/wiki/ros_tutorials
+Standards-Version: 3.9.2
+
+Package: ros-noetic-ros-tutorials
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-roscpp-tutorials, ros-noetic-rospy-tutorials, ros-noetic-turtlesim
+Description: ros_tutorials contains packages that demonstrate various features of ROS, as well as support packages which help demonstrate those features.
