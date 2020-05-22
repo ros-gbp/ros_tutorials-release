@@ -2,6 +2,9 @@
 Changelog for package turtlesim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.10.1 (2020-05-22)
+-------------------
+
 0.10.0 (2020-05-12)
 -------------------
 * add noetic turtle (`#85 <https://github.com/ros/ros_tutorials/issues/85>`_)
