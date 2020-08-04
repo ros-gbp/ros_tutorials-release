@@ -2,6 +2,9 @@
 Changelog for package roscpp_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.3 (2020-08-04)
+------------------
+
 0.9.2 (2020-02-26)
 ------------------
 * explicitly state Boost dependencies manifests (`#83 <https://github.com/ros/ros_tutorials/issues/83>`_)
