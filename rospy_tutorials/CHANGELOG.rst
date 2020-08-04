@@ -2,6 +2,9 @@
 Changelog for package rospy_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.3 (2020-08-04)
+------------------
+
 0.9.2 (2020-02-26)
 ------------------
 * add print parenthesis for Python 3 (`#82 <https://github.com/ros/ros_tutorials/issues/82>`_)
