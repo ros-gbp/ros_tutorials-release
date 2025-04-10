@@ -2,6 +2,12 @@
 Changelog for package rospy_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.10.3 (2025-04-10)
+-------------------
+* added pointcoud2 example (`#111 <https://github.com/ros/ros_tutorials/issues/111>`_)
+* Update maintainers (`#102 <https://github.com/ros/ros_tutorials/issues/102>`_)
+* Contributors: Evan Flynn, Shane Loretz
+
 0.10.2 (2020-07-31)
 -------------------
 
